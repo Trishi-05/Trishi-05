@@ -1,42 +1,45 @@
-<div id='header' align='center'>
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2pnbHFpdzQxaGZxNDJ6YzNjZnhueHlhbnVja3R0M2E2a2NqeGZuOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aIJDrOomj81MQZz2uO/giphy.gif" width="100"/>
-  
+<h1 align="center">Hi there 👋, I'm Rishika!</h1>
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2pnbHFpdzQxaGZxNDJ6YzNjZnhueHlhbnVja3R0M2E2a2NqeGZuOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aIJDrOomj81MQZz2uO/giphy.gif" width="200" />
+</p>
 
-  <div id="badges">
-    <a href='https://in.linkedin.com/in/teenati-rishika'>
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </div>
-  <h1>
-  Hey There
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-</div>
+<p align="center">
+  <b>BTech CSE Student | MERN Stack Enthusiast | Anime & Tech Lover</b>
+</p>
 
-<div>
-  
-### :woman_technologist: About Me 
+---
 
-- 🔭 I’m currently studying at CVR COLLEGE OF ENGINEERING
-- 🌱 I’m currently learning MERN stack
-- :zap: In my free time, I read tech articles and watch anime.
-- 📫: How to reach me: [trishika1105@gmail.com](mailto:trishika1105@gmail.com)
+### 👩‍💻 About Me
 
-</div>
+🎓 I'm a 3rd-year Computer Science student at **CVR College of Engineering**    
+💻 Currently focused on learning MERN stack and strengthening my DSA skills    
+⚡ I love reading tech articles, solving DSA problems, and watching anime in my free time  
+📫 You can reach me at **trishika1105@gmail.com**  
 
+---
 
-<div>
-  
-### :hammer_and_wrench: Languages and Tools 
+### 🛠️ Tech Stack
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+---
 
-</div>
-</div>
+### 🔗 Let's Connect
+
+<p align="center">
+  <a href="mailto:trishika1105@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://in.linkedin.com/in/teenati-rishika/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Trishi-05"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://leetcode.com/trishi_05/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
+</p>
+
+---
+
+<p align="center">✨ Building cool things with code and curiosity! ✨</p>
